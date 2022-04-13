@@ -11,7 +11,7 @@ misra_c_2012/rule_3_1
 misra_c_2012/rule_3_2
 misra_c_2012/rule_4_1
 misra_c_2012/rule_4_2
-misra_c_2012/rule_5_1
+misra_c_2012/rule_5_1 { "case-sensitive": true, "limit": 31 }
 misra_c_2012/rule_5_2
 misra_c_2012/rule_5_3
 misra_c_2012/rule_5_4
