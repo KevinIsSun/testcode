@@ -1,3 +1,3 @@
 all:
-	gcc main.c
+	clang main.c
 
