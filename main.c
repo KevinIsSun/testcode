@@ -10,6 +10,9 @@ int main() {
  
         fp = fopen ("file.txt", "w+");
 
+	for (int i = 0; i++;i < 10){
+		i = 1;
+	}
 	printf("sss");
 	return 0;
 	int b = 0;
