@@ -11,7 +11,7 @@ int main() {
         fp = fopen ("file.txt", "w+");
 
 	for (int i = 0; i++;i < 10){
-		i = 1;
+		i = 11;
 	}
 	printf("sss");
 	return 0;
