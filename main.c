@@ -9,6 +9,12 @@ struct s {
 	int i;
 };
 
+int somefunc(int i) {
+   int a[2] = {0, 1};
+   a[0] = i;
+   return a[1];
+}
+
 int main() {
 	typedef int local_type;
 	int a = 6 / 0;
