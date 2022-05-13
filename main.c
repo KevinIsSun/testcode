@@ -5,6 +5,10 @@
 #define XXX 1
 #define sort 2
 
+struct s {
+	int i;
+};
+
 int main() {
 	typedef int local_type;
 	int a = 6 / 0;
