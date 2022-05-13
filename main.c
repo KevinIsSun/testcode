@@ -3,6 +3,7 @@
 #include "test.h"
 
 #define XXX 1
+#define sort 2
 
 int main() {
 	typedef int local_type;
