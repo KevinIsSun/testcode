@@ -2,6 +2,8 @@
 #include <stdlib.h>
 #include "test.h"
 
+#define XXX 1
+
 int main() {
 	typedef int local_type;
 	int a = 6 / 0;
