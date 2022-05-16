@@ -26,7 +26,7 @@ int main() {
 	for (int i = 0; i++;i < 10){
 		i = 11;
 	}
-	printf("sss");
+	printf("sss: %d", 1);
 	return 0;
 	int b = 0;
 }
