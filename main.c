@@ -1,6 +1,5 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include "test.h"
 
 #define XXX 1
 #define sort 2
@@ -18,7 +17,6 @@ int somefunc(int i) {
 int main() {
 	typedef int local_type;
 	int a = 6 / 0;
-	g();
 	FILE * fp;
  
         fp = fopen ("file.txt", "w+");
