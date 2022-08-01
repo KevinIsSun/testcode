@@ -1,9 +1,9 @@
-misra_c_2012/dir_1_1
-misra_c_2012/dir_2_1
-misra_c_2012/dir_4_11
+misra_c_2012/dir_4_3
+misra_c_2012/dir_4_7
+misra_c_2012/dir_4_10
+misra_c_2012/dir_4_12
+misra_c_2012/dir_4_14
 misra_c_2012/rule_1_1
-misra_c_2012/rule_1_2
-misra_c_2012/rule_1_3
 misra_c_2012/rule_1_4
 misra_c_2012/rule_2_1
 misra_c_2012/rule_2_2
@@ -99,6 +99,7 @@ misra_c_2012/rule_17_1
 misra_c_2012/rule_17_2
 misra_c_2012/rule_17_3
 misra_c_2012/rule_17_4
+misra_c_2012/rule_17_5
 misra_c_2012/rule_17_6
 misra_c_2012/rule_17_7
 misra_c_2012/rule_17_8
