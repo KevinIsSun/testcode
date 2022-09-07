@@ -1,4 +1,4 @@
 all:
 	clang main.c
-	clang test.cc
+	clang++ test.cc
 
